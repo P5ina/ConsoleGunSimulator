@@ -1,5 +1,4 @@
 from os import system
-from math import sin, pi, tau
 from json import load
 from time import sleep
 
