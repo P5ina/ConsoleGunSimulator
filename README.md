@@ -2,4 +2,4 @@
 
 This is the best shooting simulator.
 
-![example](image.png)
+![example](example.png)
