@@ -21,8 +21,7 @@ current = 0
 multiplier = 1
 
 while True:
-	# works only on windows
-	system("cls")
+	print("\033c")
 	spaces = " " * (offset + current)
 
 	for row in gun:
